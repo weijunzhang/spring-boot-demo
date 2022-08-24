@@ -19,6 +19,7 @@ spring boot demo 是一个用来学习 spring boot 的项目，总共包含 **`5
 - **mysql 5.7 +** (*尽量5.7版本以上，因为5.7版本加了一些新特性，不向下兼容。本demo里会尽量避免这种不兼容的地方，但还是建议尽量保证5.7版本以上*)
 
 ### 运行方式
+### add line 
 
 1. `git clone https://github.com/xkcoding/spring-boot-demo.git`
 2. 使用 IDEA 打开 clone 下来的项目
